@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # This is a comment
 echo "Hello, Cybersecurity World!"
